@@ -1,1 +1,3 @@
-# openai-assistants-api-demo
+# OpenAI Assistants API Demo
+
+See `main.py`.
